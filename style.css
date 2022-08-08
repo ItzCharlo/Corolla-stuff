@@ -1,0 +1,39 @@
+body{
+    background-color: dimgray;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.Velkommen{
+    border-style: solid;
+    background-color: slateblue;
+    border-radius: 5px;
+}
+
+.list{
+    display: block;
+    float: left;
+    margin-top: 70px;
+    margin-bottom: 5px;
+    border-style: solid;
+    background-color: slateblue;
+    border-radius: 5px;
+}
+
+img{
+    display: block;
+    margin-top: 70px;
+   float: right;
+   border-style: solid;
+   border-radius: 5px;
+}
+
+.rading{
+   display: block;
+   float: left;
+   margin-top: 40px;
+   border-style: solid;
+   border-radius: 5px;
+   background-color: slateblue;
+}
